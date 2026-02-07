@@ -53,13 +53,6 @@ Use the following credentials to explore the application:
 
 ---
 
-## Sample Data
-
-- Project: TaskFlow UI Enhancement
-- Tasks are assigned to users for demonstration purposes
-
----
-
 ## Setup Instructions (Optional)
 
 ### Backend
@@ -67,7 +60,6 @@ Use the following credentials to explore the application:
 cd taskflow-backend
 npm install
 npm run dev
-
 
 ###Frontend
 cd taskflow-frontend-assessment
